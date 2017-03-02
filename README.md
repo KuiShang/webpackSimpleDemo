@@ -4,5 +4,6 @@
 
 ## 运行方法
 * npm install
+* webpack-dev-server
 
 
