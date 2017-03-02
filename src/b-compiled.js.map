@@ -1,0 +1,1 @@
+{"version":3,"sources":["b.js"],"names":[],"mappings":";;AAAA;;AACA;AACA,IAAI,IAAI,SAAJ,CAAI;AAAA,SAAK,QAAQ,GAAR,CAAY,WAAS,CAArB,CAAL;AAAA,CAAR;AACA,qB,CAAU","file":"b-compiled.js","sourcesContent":["import {sex,echo} from \"./a.js\"\r\n//console.log(sex);  // boy\r\nvar f = v => console.log('httttt'+v);\r\necho(sex);// boy\r\n"]}
